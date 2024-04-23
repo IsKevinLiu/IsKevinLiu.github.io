@@ -1,8 +1,10 @@
 ---
-title: How to create a GitHub Page
-author: Kevin
-date: 2024-04-23 23:18:00 +6000
-categories: [Moments]
-tags: [GitHub Page]    # TAG names should always be lowercase
+title: Writing a New Post
+author: cotes
+date: 2019-08-08 14:10:00 +0800
+categories: [Blogging, Tutorial]
+tags: [writing]
+render_with_liquid: false
 ---
-# This is a test
+
+This tutorial will guide you how to write a post in the _Chirpy_ template, and it's worth reading even if you've used Jekyll before, as many features require specific variables to be set.
