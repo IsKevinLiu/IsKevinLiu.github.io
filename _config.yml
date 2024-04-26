@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "Power of Cheese Lab" # the main title
+title: "PoC Lab" # the main title
 
 tagline: Reading and Recording # it will display as the sub-title
 
