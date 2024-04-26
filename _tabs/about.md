@@ -6,7 +6,18 @@ order: 4
 
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
-# Kevin's Lab
 
-# Power of cheese
-We are a team of researchers and scientists who love cheese.
+
+# Power of cheese Lab
+We are a team of researchers and scientists who love cheese. We will record and share something in our daily study and research.
+
+
+## Kevin
+Southwest Jiaotong University， Department of Statistics.
+Interested in
+- Time series analysis in biomedical
+- ECG abnormal detection and classification
+{: .prompt-tip }
+
+
+## Zhu M.F.
