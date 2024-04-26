@@ -13,9 +13,9 @@ We are a team of researchers and scientists who love cheese. We will record and 
 
 
 ## Liu J.
-Postgraduate students in statistics. And interested in
-- Time series analysis in biomedical
-- ECG abnormal detection and classification
+> Postgraduate students in statistics. And interested in
+>- Time series analysis in biomedical
+>- ECG abnormal detection and classification
 {: .prompt-tip }
 
 
