@@ -1,8 +1,6 @@
 ---
 title: Pycharm and Github
-author: 
-    name: Liu J.
-    link: https://github.com/IsKevinLiu
+author: <Liu>
 date: 2024-04-26 16:10:00 +0800
 categories: [HOW to USE IT, Python]
 render_with_liquid: false
