@@ -1,6 +1,8 @@
 ---
 title: Pycharm and Github
-author: Liu J.
+author: 
+    name: Liu J.
+    link: https://github.com/IsKevinLiu
 date: 2024-04-26 16:10:00 +0800
 categories: [HOW to USE IT, Python]
 render_with_liquid: false
@@ -20,9 +22,7 @@ render_with_liquid: false
 ## 从Github中克隆项目
 1. 创建一个新的项目
 2. 打开`主菜单-文件-设置`(Ctrl+Alt+S), 在版本控制中找到`git`. 点击测试自动检测git路径或者将自定义安装路径手动输入.
-![Settings git](https://isKevinLiu.github.io/_image/20240426/001.png)
+   ![Settings git in Pycharm](https://github.com/IsKevinLiu/IsKevinLiu.github.io/blob/main/_image/20240426/001.png)
 3. 打开`主菜单-VCS`选择`创建git仓库...`
 4. 打开`主菜单-VCS`(or `主菜单-git`)选择`Git-clone`在URL中输入项目地址, 选择本地路径, 点击`Clone`
-
-## 版本控制
   
