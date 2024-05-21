@@ -1,5 +1,5 @@
 ---
-title: TSA
+title: Time Series Analysis
 author: Liu
 date: 2024-04-26 16:10:00 +0800
 categories: [Statistics, Time Series Analysis]
