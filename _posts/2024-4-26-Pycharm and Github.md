@@ -7,6 +7,7 @@ render_with_liquid: false
 img_path: https://raw.githubusercontent.com/IsKevinLiu/IsKevinLiu.github.io/main/_image/20240426/
 ---
 
+
 # 安装与前期准备
 ## 软件安装
 1. 安装 Python
