@@ -1,7 +1,7 @@
 ---
 title: Time Series Analysis
 author: Liu
-date: 2024-04-26 16:10:00 +0800
+date: 2024-04-28 16:10:00 +0800
 categories: [Statistics, Time Series Analysis]
 render_with_liquid: false
 img_path: https://raw.githubusercontent.com/IsKevinLiu/IsKevinLiu.github.io/main/_image/20240428/
